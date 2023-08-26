@@ -20,7 +20,7 @@ SOCIAL_MEDIA = {
     "YouTube": "Currently not available.",
     "LinkedIn": "https://www.linkedin.com/in/nithin-yadav-pandugayala-2a4b2a166/",
     "GitHub": "https://github.com/Budeestar",
-    "Twitter": "Currently not available",
+    "Twitter": "Currently not available.",
 }
 PROJECTS = {
     "Covid 19 time series analysis: Predicting cases from past data" :"https://github.com/Budeestar/covidpred",
