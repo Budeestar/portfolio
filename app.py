@@ -17,7 +17,7 @@ Automation tester using Java and Selenium.
 """
 EMAIL = "nithinvasudevyadav0010@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "Currently not available, will create later",
+    "YouTube": "Currently not available.",
     "LinkedIn": "https://www.linkedin.com/in/nithin-yadav-pandugayala-2a4b2a166/",
     "GitHub": "https://github.com/Budeestar",
     "Twitter": "Currently not available",
